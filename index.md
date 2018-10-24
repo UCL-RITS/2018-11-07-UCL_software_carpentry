@@ -41,7 +41,7 @@ and our administrator may contact you if we need any extra information.</h4>
   the pitch.
 {% endcomment %}
 
-UCL registration: <a href="https://www.eventbrite.co.uk/e/ucl-software-carpentry-june-2018-registration-46979240172">register here</a>
+UCL registration is open <a href="https://www.ucl.ac.uk/hr/UCLTrainingBookingSystem/index/results?Model_Page-QUERY=RITS%3A+Software+Carpentry+Workshop&x=44&y=9">here</a>
 {% if page.carpentry == "swc" %}
   {% include sc/intro.html %}
 {% elsif page.carpentry == "dc" %}
