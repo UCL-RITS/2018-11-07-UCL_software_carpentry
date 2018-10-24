@@ -13,8 +13,8 @@ enddate: 2018-11-08        # machine-readable end date for the workshop in YYYY-
 instructor: ["Samantha Ahern, Roland Guichard, Anastasis Georgoulas, Vilma Agalioti-Sgompou"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Samantha Ahern, Asif Tamuri, Tom Dowrick, Anastasis Georgoulas", Roland Guichard, Gioia Altobelli]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["rc-softdev@ucl.ac.uk"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
-UCL registration: https://www.ucl.ac.uk/hr/UCLTrainingBookingSystem/index/results?Model_Page-QUERY=RITS%3A+Software+Carpentry+Workshop&x=46&y=16          # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+UCL registration:  https://www.ucl.ac.uk/hr/UCLTrainingBookingSystem/index/results?Model_Page-QUERY=RITS%3A+Software+Carpentry+Workshop&x=46&y=16            # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
+
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
